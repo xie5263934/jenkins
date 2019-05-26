@@ -3,7 +3,7 @@
 spring:
     datasource:
       username: root
-      password:
+      password: root
       #schema: database/import.sql
       #sql-script-encoding: utf-8
       driver-class-name: com.mysql.cj.jdbc.Driver
